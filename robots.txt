@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://books-hk.github.io/bok-2/sitemap.xml
